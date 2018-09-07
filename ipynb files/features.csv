@@ -1,0 +1,51 @@
+﻿Features,Sentiment,Ratio
+excellent service,Positive,25.8
+arrive on,Positive,23.2
+direct debit,Negative,22
+engineer arrive,Positive,17.6
+thorough,Positive,15.6
+friendly,Positive,14.7
+2 week,Negative,14.5
+excellent,Positive,14
+happy service,Positive,13.5
+efficient,Positive,13.3
+courteous,Positive,12.2
+prompt,Positive,12.2
+service engineer,Positive,11.7
+poor service,Negative,11.7
+polite efficient,Positive,11
+sort problem,Positive,11
+30 minute,Negative,11
+cut off,Negative,10.8
+well do,Positive,10.7
+meter read,Negative,10.3
+5 day,Negative,10.3
+on hold,Negative,10.3
+engineer friendly,Positive,9.7
+per month,Negative,9.6
+company ever,Negative,9.6
+not recommend,Negative,9.6
+final bill,Negative,9.6
+service provide,Positive,9.1
+highly recommend,Positive,9.1
+come service,Positive,9.1
+good service,Positive,9
+off work,Negative,9
+3 week,Negative,8.9
+3 day,Negative,8.9
+job well,Positive,8.5
+polite,Positive,8.3
+pleasant,Positive,8.2
+another company,Negative,8.1
+bad company,Negative,8.1
+10 day,Negative,8.1
+bad customer,Negative,8.1
+5 year,Negative,8.1
+call back,Negative,8
+call centre,Negative,7.9
+on boiler,Positive,7.8
+time slot,Positive,7.7
+service boiler,Positive,7.6
+even though,Negative,7.6
+water heat,Negative,7.4
+energy supplier,Negative,7.4
